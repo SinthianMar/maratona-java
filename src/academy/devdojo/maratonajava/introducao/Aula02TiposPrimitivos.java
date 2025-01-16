@@ -13,9 +13,9 @@ public class Aula02TiposPrimitivos {
         boolean falso = false;
         char caractere = 87;
 String nome = "Maria";
-       // System.out.println("Idade: " + idade);
-       // System.out.println(false);
-       // System.out.println("char " + caractere);
+       /*System.out.println("Idade: " + idade);
+       System.out.println(false);
+       System.out.println("char " + caractere);*/
         System.out.println(nome);
     }
 }
